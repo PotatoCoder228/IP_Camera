@@ -11,4 +11,6 @@
 #
 # By default this script does nothing.
 
+/usr/bin/our-script &
+
 exit 0

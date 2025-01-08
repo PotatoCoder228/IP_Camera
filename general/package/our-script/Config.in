@@ -1,0 +1,7 @@
+config BR2_PACKAGE_OUR_SCRIPT
+	bool "our-script"
+	default n
+	help
+	  Our UART script
+
+	  https://openipc.org
